@@ -1,4 +1,7 @@
-### Hello there (General Kenobi) 👋, My name is Mateusz
+
+                                                 ![Flutter developer](https://github.com/mateuszkasprzak94/mateuszkasprzak94/assets/142491717/20936d9d-2029-4e93-8b8e-e81ea001b18e)
+
+                                                 Hello there (General Kenobi) 👋, My name is Mateusz
 
 <!--
 **mateuszkasprzak94/mateuszkasprzak94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
