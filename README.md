@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 💙 Passionate in Creating Apps using Flutter 💙
 
 ## Connect with me:
-[<img src="https://www.sarkarinaukriexams.com/images/import/sne159792422716.png" alt="Twitter Link" width="100" height="100">](https://twitter.com/mat_kasp)
-
+[<img src="https://www.sarkarinaukriexams.com/images/import/sne151712580918.png" alt="Twitter Link" width="100" height="100">](https://twitter.com/mat_kasp)
+[<img src="https://seeklogo.com/images/I/instagram-new-2022-logo-AD8350AD3C-seeklogo.com.png" alt="Instagram Link" width="100" height="100">](https://www.instagram.com/mateusz_kasp)
