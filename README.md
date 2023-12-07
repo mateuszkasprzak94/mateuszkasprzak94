@@ -3,6 +3,7 @@
 ![Flutter developer](https://github.com/mateuszkasprzak94/mateuszkasprzak94/assets/142491717/6e9a4303-5698-42f8-9ae7-07c7c926e1d3)
 
 # <p align="center">Hello there 👋, My name is Mateusz</p>
+**<p align="center">I'am Dedicated Flutter Developer**</p>
 
 
 
@@ -17,4 +18,5 @@ Here are some ideas to get you started:
 - 💙 Passionate in Creating Apps using Flutter 💙
 
 ## Connect with me:
-[![Twitter Link](https://www.sarkarinaukriexams.com/images/import/sne159792422716.png)](https://twitter.com/mat_kasp)
+[<img src="https://www.sarkarinaukriexams.com/images/import/sne159792422716.png" alt="Twitter Link" width="100" height="100">](https://twitter.com/mat_kasp)
+
