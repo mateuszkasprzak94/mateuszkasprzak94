@@ -1,7 +1,8 @@
 
-                                                 ![Flutter developer](https://github.com/mateuszkasprzak94/mateuszkasprzak94/assets/142491717/20936d9d-2029-4e93-8b8e-e81ea001b18e)
 
-                                                 Hello there (General Kenobi) 👋, My name is Mateusz
+![Flutter developer](https://github.com/mateuszkasprzak94/mateuszkasprzak94/assets/142491717/6e9a4303-5698-42f8-9ae7-07c7c926e1d3)
+
+                                 Hello there (General Kenobi) 👋, My name is Mateusz
 
 <!--
 **mateuszkasprzak94/mateuszkasprzak94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--
