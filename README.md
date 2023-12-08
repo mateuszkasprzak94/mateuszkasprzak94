@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Spanish colloquialism App**
+- 🔭 I’m currently working on **StreetTalk: Język Hiszpański Kolokwialnie**
 - 🌱 I’m currently learning **everything I can about Flutter**
 - 💬 Ask me about **anything you like**
 - 📫 How to reach me: mateusz.kasprzak17@gmail.com
