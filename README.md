@@ -3,7 +3,6 @@
 ![Flutter developer](https://github.com/mateuszkasprzak94/mateuszkasprzak94/assets/142491717/6e9a4303-5698-42f8-9ae7-07c7c926e1d3)
 
 # <p align="center">Hello there 👋, My name is Mateusz</p>
-**<p align="center">I'am Dedicated Flutter Developer**</p>
 
 
 
