@@ -3,14 +3,14 @@
 ![Flutter developer](https://github.com/mateuszkasprzak94/mateuszkasprzak94/assets/142491717/6e9a4303-5698-42f8-9ae7-07c7c926e1d3)
 
 # <p align="center">Hello there 👋, My name is Mateusz</p>
-
+<h3><p align="center">A passionate mobile developer from Poland</p></h3>
 
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **StreetTalk: Język Hiszpański Kolokwialnie**
 - 🌱 I’m currently learning **everything I can about Flutter**
-- 💬 Ask me about **anything you want**
+- 💬 Ask me about **Flutter**
 - 📫 How to reach me: mateusz.kasprzak17@gmail.com
 - ⚡ Fun fact: I used to be Officer of the Watch in Maritime Industry ⛵
 - 💪 Addicted to Healthy Lifestyle and Gym 💪
