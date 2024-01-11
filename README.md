@@ -9,7 +9,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **StreetTalk: Język Hiszpański Kolokwialnie**
-- 🌱 I’m currently learning **everything I can about Flutter**
+- 🌱 I’m currently mastering **Bloc & Rest API**
 - 💬 Ask me about **Flutter**
 - 📫 How to reach me: mateusz.kasprzak17@gmail.com
 - ⚡ Fun fact: I used to be Officer of the Watch in Maritime Industry ⛵
