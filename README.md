@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently mastering **Bloc & Rest API**
 - 💬 Ask me about **Flutter**
 - 📫 How to reach me: mateusz.kasprzak17@gmail.com
-- ⚡ Fun fact: I used to be Officer of the Watch in Maritime Industry ⛵
-- 💪 Addicted to Healthy Lifestyle and Gym 💪
-- 💙 Passionate in Creating Apps using Flutter 💙
 
 ## [Stay linked:](#Link1)
 [<img src="https://www.sarkarinaukriexams.com/images/import/sne151712580918.png" alt="Twitter Link" width="50" height="50">](https://twitter.com/mat_kasp)
