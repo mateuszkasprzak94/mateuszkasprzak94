@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **StreetTalk: Język Hiszpański Kolokwialnie**
+- 🔭 I’m currently working on **StreetTalk: Spanish**
 - 🌱 I’m currently mastering **Bloc**
 - 💬 Ask me about **Flutter**
 - 📫 How to reach me: mateusz.kasprzak17@gmail.com
