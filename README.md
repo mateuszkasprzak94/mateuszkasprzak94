@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **update for StreetTalk: Spanish and new app for Task Management(private repo)**
+- 🔭 I’m currently working on **update for StreetTalk: Spanish and new app for task management(TaskEase)**
 - 💬 Ask me about **Flutter**
 - 📫 How to reach me: mateusz.kasprzak17@gmail.com
 
