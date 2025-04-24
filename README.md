@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 
 ## [Stay linked:](#Link1)
 [<img src="https://www.sarkarinaukriexams.com/images/import/sne151712580918.png" alt="Twitter Link" width="50" height="50">](https://twitter.com/mat_kasp)
-[<img src="https://seeklogo.com/images/I/instagram-new-2022-logo-AD8350AD3C-seeklogo.com.png" alt="Instagram Link" width="50" height="50">](https://www.instagram.com/mateusz_kasp)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/960px-Instagram_icon.png" alt="Instagram Link" width="50" height="50">](https://www.instagram.com/mateusz_kasp)
 [<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="Linkedin Link" width="50" height="50">](https://www.linkedin.com/in/mateusz-kasprzak-5a0094171)
-[<img src="https://seeklogo.com/images/F/facebook-logo-966BBFBC34-seeklogo.com.png" alt="Facebook Link" width="50" height="50">](https://www.facebook.com/mateuszKasp94)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/250px-2023_Facebook_icon.svg.png" alt="Facebook Link" width="50" height="50">](https://www.facebook.com/mateuszKasp94)
