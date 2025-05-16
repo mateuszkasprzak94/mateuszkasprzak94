@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **update for StreetTalk: Spanish and update for NoteFlow**
+- 🔭 I’m currently working on **TrackMyTrades app (private repo)**
 - 💬 Ask me about **Flutter**
 - 📫 How to reach me: mateusz.kasprzak17@gmail.com
 
